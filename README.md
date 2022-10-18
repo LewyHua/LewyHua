@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm Lewy Hua
 - 🏫 I'm currently studying in USYD
-- 🌱 I’m currently learning MybatisPlus and SpringBoot
+- 🌱 I’m currently learning SpringCloud and JUC
 - 📫 How to reach me: huahuanzhi123@163.com
 - ⚡ Fun fact: 😄
 
