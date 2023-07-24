@@ -7,6 +7,6 @@
 - 🏫 I'm currently studying Advanced Computing in USYD
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: huahuanzhi123@163.com
-- 🖥 My blog website: http://localhost:8080/zh/
+- 🖥 My blog website: https://lewyhua.github.io/zh/
 
 Last Updated: 24/7/2023
