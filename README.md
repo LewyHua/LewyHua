@@ -7,7 +7,7 @@
 - 🏫 I'm currently studying Advanced Computing in USYD
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: huahuanzhi123@163.com
-- 🖥 My blog website: https://lewyhua.github.io/zh/
+- 🖥 My blog website: https://lewyhua.github.io
 
 ### Profile Views
 Counting of visitors to this page in this section started from July 30, 2023
@@ -16,4 +16,4 @@ Counting of visitors to this page in this section started from July 30, 2023
 ![Rule34](https://count.getloli.com/get/@LewyHua.github.readme?theme=rule34)
 </br>
 
-Last Updated: 24/7/2023
+Last Updated: 22/10/2023
