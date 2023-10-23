@@ -1,7 +1,10 @@
+<div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
+
 ### Hi there 👋
 
 <!--
 **LewyHua/LewyHua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 
 - 👨‍💻 I'm Lewy Hua
 - 🏫 I'm currently studying Advanced Computing in USYD
@@ -16,5 +19,6 @@ Counting of visitors to this page in this section started from July 30, 2023
 
 ![Rule34](https://count.getloli.com/get/@LewyHua.github.readme?theme=rule34)
 </br>
+
 
 Last Updated: 23/10/2023
