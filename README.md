@@ -6,7 +6,7 @@
 - 👨‍💻 I'm Lewy Hua
 - 🏫 I'm currently studying Advanced Computing in USYD
 - 🌱 I’m currently learning ![Golang](https://img.shields.io/badge/Golang-blue?logo=Go)
-- 🌞 I'm planning to learn ![Docker](https://img.shields.io/badge/-Docker-07afd9?style=flat-square&logo=docker) ![Shell](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+- 🌞 I'm planning to learn ![Docker](https://img.shields.io/badge/-Docker-07afd9?logo=docker) ![Shell](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 - 📫 How to reach me: huahuanzhi123@163.com
 - 🖥 My blog website: https://lewyhua.github.io
 
