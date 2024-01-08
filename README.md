@@ -7,7 +7,7 @@
 
 
 - 👨‍💻 I'm Lewy Hua
-- 🏫 I'm currently studying Advanced Computing in USYD
+- 🏫 I studied Bachelor of Advanced Computing in USYD, and plan to study Master of Information Technology in UNSW
 - 🌱 I’m currently learning 
     - ![Golang](https://img.shields.io/badge/Golang-blue?logo=Go)
 - 🌞 I'm planning to learn 
