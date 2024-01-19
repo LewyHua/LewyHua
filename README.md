@@ -9,12 +9,12 @@
 - 👨‍💻 I'm Lewy Hua
 - 🏫 I studied Bachelor of Advanced Computing in USYD, and plan to study Master of Information Technology in UNSW
 - 🌱 I’m currently learning 
-    - ![Golang](https://img.shields.io/badge/Golang-blue?logo=Go)
+    - ![C++](https://img.shields.io/badge/C++-blue?logo=c++)
 - 🌞 I'm planning to learn 
     - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
     - ![Shell](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white) 
     - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?logo=Kubernetes) 
-    - ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-07afd9?logo=docker) 
+    - ![Docker Compose](https://img.shields.io/badge/-Docker_Compose-07afd9?logo=docker)
 - 📫 How to reach me: huahuanzhi123@163.com
 - 🖥 My blog website: https://lewyhua.github.io
 
@@ -26,4 +26,4 @@ Counting of visitors to this page in this section started from July 30, 2023
 </br>
 
 
-Last Updated: 23/10/2023
+Last Updated: 19/1/2024
