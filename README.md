@@ -7,7 +7,7 @@
 
 
 - 👨‍💻 I'm Lewy Hua
-- 🏫 I studied Bachelor of Advanced Computing in USYD, and plan to study Master of Information Technology in UNSW
+- 🏫 I studied Bachelor of Advanced Computing in USYD, and I'm studying Master of Information Technology in UNSW
 - 🌱 I’m currently learning 
     - ![C++](https://img.shields.io/badge/C++-blue?logo=c++)
     - ![Rust](https://img.shields.io/badge/Rust-yellow?logo=rust)
@@ -27,4 +27,4 @@ Counting of visitors to this page in this section started from July 30, 2023
 </br>
 
 
-Last Updated: 19/1/2024
+Last Updated: 24/10/2024
